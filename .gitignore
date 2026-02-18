@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Lock files (optional, but recommended for Snack if causing issues)
+package-lock.json
+yarn.lock
