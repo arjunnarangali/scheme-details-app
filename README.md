@@ -1,3 +1,9 @@
+## 🔗 Live Build
+https://expo.dev/accounts/arjunnarangali/projects/scheme-details-app/builds/<build-id>
+
+> Note: Expo Snack is not supported due to @shopify/react-native-skia 
+> requiring native compilation. Please use the EAS build link above 
+> or clone the repo and run locally.
 # Scheme Details App
 
 React Native (Expo) app that renders a mutual fund scheme details experience with analytics, allocation, holdings, riskometer, and return calculator sections.
