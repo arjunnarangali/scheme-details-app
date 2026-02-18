@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Nippon India Multi Cap Fund",
+    "category": "Equity • Multi Cap",
+    "return3Y": "28.5%",
+    "rating": 4,
+    "logo": "nippon"
+  },
+  {
+    "id": "2",
+    "name": "HDFC Flexi Cap Fund",
+    "category": "Equity • Flexi Cap",
+    "return3Y": "24.2%",
+    "rating": 5,
+    "logo": "hdfc"
+  },
+  {
+    "id": "3",
+    "name": "Kotak Flexicap Fund",
+    "category": "Equity • Flexi Cap",
+    "return3Y": "18.9%",
+    "rating": 3,
+    "logo": "kotak"
+  }
+]

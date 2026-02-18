@@ -1,0 +1,45 @@
+{
+  "name": "Parag Parikh Flexi Cap Fund",
+  "amc": "PPFAS Mutual Fund",
+  "category": "Equity • Flexi Cap",
+  "categoryTags": ["Equity", "Flexi Cap", "Growth"],
+  "nav": 92.0201,
+  "navDate": "2025-12-28",
+  "navChange": 0.15,
+  "navChangePercent": 0.31,
+  "oneYearReturn": 12.32,
+  "oneYearBenchmarkReturn": 10.12,
+  "rating": 5,
+  "logoText": "PPFAS",
+  "riskLevel": "Very High",
+  "aum": "₹1,26,285 Cr.",
+  "expenseRatio": "0.63%",
+  "exitLoad": "2% < 365 days, 1% < 730 days",
+  "fundManager": "Rajeev Thakkar",
+  "benchmark": "S&P BSE PSU TR INR",
+  "inceptionDate": "2013-05-24",
+  "description": "A value-driven flexicap fund with global diversification that has consistently beaten its category average over long-term horizons, offering strong risk-adjusted returns.",
+  "fundManagers": [
+    { "id": "1", "name": "Rajeev Thakkar", "experience": "18 yrs", "since": "May 2013" },
+    { "id": "2", "name": "Raunak Onkar", "experience": "10 yrs", "since": "May 2013" },
+    { "id": "3", "name": "Raj Mehta", "experience": "8 yrs", "since": "Jan 2016" }
+  ],
+  "analytics": [
+    { "id": "beta", "label": "Beta", "value": "0.85", "description": "Slightly less volatile than the market" },
+    { "id": "stdDev", "label": "Std. Deviation", "value": "12%", "description": "Moderate volatility compared to peers" },
+    { "id": "sharpe", "label": "Sharpe Ratio", "value": "0.9 – 1.0", "description": "Strong risk-adjusted returns" }
+  ],
+  "allocation": [
+    { "category": "Equity", "percentage": 79.83, "color": "#00D09C" },
+    { "category": "Debt", "percentage": 11.67, "color": "#FFC107" },
+    { "category": "Cash", "percentage": 5.08, "color": "#2196F3" },
+    { "category": "Others", "percentage": 3.42, "color": "#9CA3AF" }
+  ],
+  "holdings": [
+    { "name": "HDFC Bank Ltd.", "percentage": 8.04, "valueMn": 98, "sector": "Financials" },
+    { "name": "Bajaj Holdings & Investment", "percentage": 6.00, "valueMn": 98, "sector": "Financials" },
+    { "name": "ITC Ltd.", "percentage": 5.26, "valueMn": 97, "sector": "Consumer Staples" },
+    { "name": "Power Grid Corp", "percentage": 4.80, "valueMn": 95, "sector": "Utilities" },
+    { "name": "Coal India Ltd.", "percentage": 4.50, "valueMn": 96, "sector": "Energy" }
+  ]
+}

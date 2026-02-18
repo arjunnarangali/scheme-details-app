@@ -1,0 +1,16 @@
+{
+  "SIP": [
+    { "label": "3M", "value": 8 },
+    { "label": "6M", "value": 10 },
+    { "label": "1Y", "value": 15 },
+    { "label": "3Y", "value": 11 },
+    { "label": "Max", "value": 9 }
+  ],
+  "Lumpsum": [
+    { "label": "3M", "value": 16 },
+    { "label": "6M", "value": 14 },
+    { "label": "1Y", "value": 12 },
+    { "label": "3Y", "value": 10 },
+    { "label": "Max", "value": 8 }
+  ]
+}

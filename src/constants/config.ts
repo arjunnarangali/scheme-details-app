@@ -1,0 +1,6 @@
+export const Config = {
+  DEFAULT_RETURN_PERCENTAGE: 12,
+  MIN_SIP_AMOUNT: 500,
+  MIN_LUMPSUM_AMOUNT: 1000,
+  DEFAULT_TENURE_YEARS: 5,
+} as const;
